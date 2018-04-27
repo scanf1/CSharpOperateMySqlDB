@@ -1,0 +1,8 @@
+E:\GitProject\Test.UserDataService\Test.UserData.Host\bin\Debug\Test.UserData.Host.dll.config
+E:\GitProject\Test.UserDataService\Test.UserData.Host\bin\Debug\Test.UserData.Host.dll
+E:\GitProject\Test.UserDataService\Test.UserData.Host\bin\Debug\Test.UserData.Host.pdb
+E:\GitProject\Test.UserDataService\Test.UserData.Host\bin\Debug\MySql.Data.dll
+E:\GitProject\Test.UserDataService\Test.UserData.Host\obj\Debug\Test.UserData.Host.csprojResolveAssemblyReference.cache
+E:\GitProject\Test.UserDataService\Test.UserData.Host\obj\Debug\Test.UserData.Host.csproj.CoreCompileInputs.cache
+E:\GitProject\Test.UserDataService\Test.UserData.Host\obj\Debug\Test.UserData.Host.dll
+E:\GitProject\Test.UserDataService\Test.UserData.Host\obj\Debug\Test.UserData.Host.pdb
